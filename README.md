@@ -36,7 +36,13 @@
 <br />
 
 ---
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seanjyjy&show_icons=true&theme=material-palenight)
+
+<details>
+  
+  <summary>:zap: GitHub stats</summary>
+  <img alt="Sean's Github stats" src="https://github-readme-stats.vercel.app/api?username=seanjyjy&show_icons=true&theme=material-palenight" />
+  
+</details>
 
 <!-- [website]: <my website> -->
 [instagram]: https://www.instagram.com/seanthemeh/
