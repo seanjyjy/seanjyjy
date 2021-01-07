@@ -17,20 +17,28 @@
 
 ## Languages & Technologies
 
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://reactjs.org/)
-[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.javascript.com/)
-[<img align="left" alt="Java" width="30px" src="https://simpleicons.org/icons/java.svg" />](https://www.java.com/en/)
-[<img align="left" alt="JavaFX" width="30px" height="20px" src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" />](https://openjfx.io/)
-[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/)
-[<img align="left" alt="Firebase" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />](https://firebase.google.com/)
-[<img align="left" alt="Nodejs" width="26px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" />](https://nodejs.org/en/)
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://github.com/topics/css)
-[<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://github.com/topics/html5)
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
-[<img align="left" alt="IntelliJ Idea" width="30px" src="https://www.jetbrains.com/idea/img/idea-edu.svg" />](https://github.com/topics/intellij-idea)
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://github.com/topics/visual-studio-code)
-[<img align="left" alt="adobe xd" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />](https://www.adobe.com/sea/products/xd.html)
+<div>
+  <a href="https://reactjs.org/" title="React"><img width="36" src="images/react.png" /></a>
+  &nbsp
+  <a href="https://www.javascript.com/" title="JavaScript"><img width="36" src="images/javascript.png" /></a>
+  &nbsp
+  <a href="https://firebase.google.com/" title="Firebase"><img width="36" src="images/firebase.png" /></a>
+  &nbsp
+  <a href="https://www.java.com/en/" title="Java"><img width="44" src="images/java.png" /></a>
+  <a href="https://openjfx.io/" title="JavaFX"><img width="70" src="images/javafx.png" /></a>
+  &nbsp
+  <a href="https://www.python.org/" title="Python"><img width="36" src="images/python.png" /></a>
+  &nbsp
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img width="36" src="images/C.svg" /></a>
+  &nbsp
+  <a href="https://nodejs.org/en/" title="Node.js"><img width="30" src="images/nodejs-icon.svg" /></a>
+  &nbsp
+  <a href="https://github.com/topics/css" title="CSS"><img width="36" src="images/css.png" /></a>
+  &nbsp
+  <a href="https://github.com/topics/html5" title="HTML"><img width="36" src="images/html.png" /></a>
+  &nbsp
+  <a href="https://www.adobe.com/sea/products/xd.html" title="Adobe XD"><img width="32" src="images/adobexd.png" /></a>
+</div>
 
 <br />
 <br />
