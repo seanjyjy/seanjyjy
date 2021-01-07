@@ -27,13 +27,15 @@
   <a href="https://www.java.com/en/" title="Java"><img width="44" src="images/java.png" /></a>
   <a href="https://openjfx.io/" title="JavaFX"><img width="70" src="images/javafx.png" /></a>
   &nbsp
+  <a href="https://github.com/topics/css" title="CSS"><img width="36" src="images/css.png" /></a>
+  &nbsp
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C"><img width="36" src="images/c++.png" /></a>
+  &nbsp    
   <a href="https://www.python.org/" title="Python"><img width="36" src="images/python.png" /></a>
   &nbsp
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img width="36" src="images/C.svg" /></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img width="36" src="images/C.png" /></a>
   &nbsp
-  <a href="https://nodejs.org/en/" title="Node.js"><img width="30" src="images/nodejs-icon.svg" /></a>
-  &nbsp
-  <a href="https://github.com/topics/css" title="CSS"><img width="36" src="images/css.png" /></a>
+  <a href="https://nodejs.org/en/" title="Node.js"><img width="30" src="images/nodejs.png" /></a>
   &nbsp
   <a href="https://github.com/topics/html5" title="HTML"><img width="36" src="images/html.png" /></a>
   &nbsp
