@@ -18,28 +18,28 @@
 ## Languages & Technologies
 
 <div>
-  <a href="https://reactjs.org/" title="React"><img width="36" src="images/react.png" /></a>
+  <a href="https://reactjs.org/" title="React"><img src="images/react.png" height="35" width="auto" /></a>
   &nbsp
-  <a href="https://www.javascript.com/" title="JavaScript"><img width="36" src="images/javascript.png" /></a>
+  <a href="https://www.javascript.com/" title="JavaScript"><img src="images/javascript.png" height="35" width="auto" /></a>
   &nbsp
-  <a href="https://firebase.google.com/" title="Firebase"><img width="36" src="images/firebase.png" /></a>
+  <a href="https://firebase.google.com/" title="Firebase"><img src="images/firebase.png" height="35" width="auto" /></a>
   &nbsp
-  <a href="https://www.java.com/en/" title="Java"><img width="44" src="images/java.png" /></a>
-  <a href="https://openjfx.io/" title="JavaFX"><img width="70" src="images/javafx.png" /></a>
+  <a href="https://www.java.com/en/" title="Java"><img src="images/java.png" height="35" width="auto"/></a>
+  <a href="https://openjfx.io/" title="JavaFX"><img src="images/javafx.png" height="35" width="auto"/></a>
   &nbsp
-  <a href="https://github.com/topics/css" title="CSS"><img width="36" src="images/css.png" /></a>
+  <a href="https://github.com/topics/css" title="CSS"><img src="images/css.png" height="35" width="auto" /></a>
   &nbsp
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C"><img width="36" src="images/c++.png" /></a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C"><img src="images/c++.png" height="35" width="auto" /></a>
   &nbsp    
-  <a href="https://www.python.org/" title="Python"><img width="36" src="images/python.png" /></a>
+  <a href="https://www.python.org/" title="Python"><img src="images/python.png" height="35" width="auto" /></a>
   &nbsp
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img width="36" src="images/C.png" /></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="images/C.png" height="35" width="auto" /></a>
   &nbsp
-  <a href="https://nodejs.org/en/" title="Node.js"><img width="30" src="images/nodejs.png" /></a>
+  <a href="https://nodejs.org/en/" title="Node.js"><img src="images/nodejs.png" height="35" width="auto" /></a>
   &nbsp
-  <a href="https://github.com/topics/html5" title="HTML"><img width="36" src="images/html.png" /></a>
+  <a href="https://github.com/topics/html5" title="HTML"><img src="images/html.png"  height="35" width="auto"/></a>
   &nbsp
-  <a href="https://www.adobe.com/sea/products/xd.html" title="Adobe XD"><img width="32" src="images/adobexd.png" /></a>
+  <a href="https://www.adobe.com/sea/products/xd.html" title="Adobe XD"><img src="images/adobexd.png" height="35" width="auto" /></a>
 </div>
 
 <br />
