@@ -2,10 +2,10 @@
 
 ## I'm a 2nd year Computer Science student in NUS!
 
-- 🔭 I’m currently working on Sort-Algo, a sorting visualiser
+- 🔭 I’m currently studying Databases and Artificial Intelligence
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- Do check out my website [here](https://seanjyjy.github.io/me/) 
 
 ### Connect with me:
 <!-- [<img align="left" alt="<my website>.com" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
