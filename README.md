@@ -5,7 +5,6 @@
 - 🔭 I’m currently studying Databases and Artificial Intelligence
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- Do check out my website [here](https://seanjyjy.github.io/me/) 
 
 ### Connect with me:
 <!-- [<img align="left" alt="<my website>.com" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
@@ -44,6 +43,13 @@
 
 <br />
 <br />
+
+---
+
+## Learn more about me at
+
+- [Personal Website](https://seanjyjy.github.io/me/)
+- [LinkedIn](https://www.linkedin.com/in/jyjy98/)
 
 ---
 
