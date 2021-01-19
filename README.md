@@ -2,9 +2,8 @@
 
 ## I'm a 2nd year Computer Science student in NUS!
 
-- 🔭 I’m currently studying Databases and Artificial Intelligence
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
+- 🌱 I’m currently studying SWE, Databases and Artificial Intelligence
+- 🔭 I’m looking to collaborate with other developers
 
 ### Connect with me:
 <!-- [<img align="left" alt="<my website>.com" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
