@@ -56,7 +56,7 @@
   
   <summary>:zap: GitHub stats</summary>
   <img alt="Sean's Github stats" src="https://github-readme-stats.vercel.app/api?username=seanjyjy&show_icons=true&theme=material-palenight" />
-  
+  <div><img alt="Sean's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanjyjy" /></div>
 </details>
 
 <!-- [website]: <my website> -->
