@@ -18,7 +18,7 @@
 <div>
   <a href="https://reactjs.org/" title="React"><img src="images/react.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://www.javascript.com/" title="JavaScript"><img src="images/javascript.png" height="35" width="auto" /></a>
+  <a href="https://www.javascript.com/" title="JavaScript"><img src="images/javascript.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://redux.js.org" title="Redux"><img src="images/redux.svg" height="35" width="auto" /></a>
   &nbsp;
@@ -27,15 +27,13 @@
   <a href="https://firebase.google.com/" title="Firebase"><img src="images/firebase.png" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://www.java.com/en/" title="Java"><img src="images/java.svg" height="35" width="auto"/></a>
-  <a href="https://openjfx.io/" title="JavaFX"><img src="images/javafx.png" height="35" width="auto"/></a>
-  &nbsp;
-  <a href="https://github.com/topics/css" title="CSS"><img src="images/css.png" height="35" width="auto" /></a>
+  <a href="https://github.com/topics/css" title="CSS"><img src="images/css.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" title="c"><img src="images/c.svg" height="35" width="auto" /></a>
   &nbsp;   
   <a href="https://www.python.org/" title="Python"><img src="images/python.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://github.com/topics/html5" title="HTML"><img src="images/html.png"  height="35" width="auto"/></a>
+  <a href="https://github.com/topics/html5" title="HTML"><img src="images/html.svg"  height="35" width="auto"/></a>
   &nbsp;
   <a href="https://www.adobe.com/sea/products/xd.html" title="Adobe XD"><img src="images/adobexd.svg" height="35" width="auto" /></a>
 </div>
