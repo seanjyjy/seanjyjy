@@ -24,9 +24,10 @@
   &nbsp;
   <a href="https://nodejs.org/en/" title="Node.js"><img src="images/nodejs.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://firebase.google.com/" title="Firebase"><img src="images/firebase.png" height="35" width="auto" /></a>
+  <a href="https://firebase.google.com/" title="Firebase"><img src="images/firebase.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://www.java.com/en/" title="Java"><img src="images/java.svg" height="35" width="auto"/></a>
+    &nbsp;
   <a href="https://github.com/topics/css" title="CSS"><img src="images/css.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" title="c"><img src="images/c.svg" height="35" width="auto" /></a>
