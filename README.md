@@ -57,7 +57,7 @@
   
   <summary>:zap: GitHub stats</summary>
   <img alt="Sean's Github stats" src="https://github-readme-stats.vercel.app/api?username=seanjyjy&show_icons=true&theme=material-palenight" />
-  <div><img alt="Sean's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanjyjy&exclude_repo=github-readme-stats,Snake-Game" /></div>
+  <div><img alt="Sean's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanjyjy&count_private=true" /></div>
 </details>
 
 <!-- [website]: <my website> -->
