@@ -48,7 +48,7 @@
 
 ## Learn more about me at
 
-- [Personal Website](https://seanjyjy.github.io/me/)
+- [Personal Website](https://www.seanlumjy.com/)
 - [LinkedIn](https://www.linkedin.com/in/jyjy98/)
 
 ---
