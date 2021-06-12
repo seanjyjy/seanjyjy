@@ -1,6 +1,6 @@
 ### Hi there, I'm Sean 👋
 
-## I'm a 2nd year Computer Science student in NUS!
+## I'm a 3rd year Computer Science student in NUS!
 
 - 🌱 I’m currently studying SWE, Databases and Artificial Intelligence
 - 🔭 I’m looking to collaborate with other developers
