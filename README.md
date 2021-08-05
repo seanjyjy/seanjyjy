@@ -21,7 +21,7 @@
 <div>
   <a href="https://reactjs.org/" title="React"><img src="images/react.svg" height="35" width="auto" /></a>
   &nbsp;
-    <a href="https://www.typescriptlang.org/" title="Typescript"><img src="images/typesciprt.svg" height="35" width="auto" /></a>
+    <a href="https://www.typescriptlang.org/" title="Typescript"><img src="images/typescript.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://www.javascript.com/" title="JavaScript"><img src="images/javascript.svg" height="35" width="auto" /></a>
   &nbsp;
