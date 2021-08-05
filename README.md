@@ -6,9 +6,12 @@
 - 🔭 I’m looking to collaborate with other developers
 
 ### Connect with me:
+
 <!-- [<img align="left" alt="<my website>.com" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+
 [<img align="left" alt="seanjyjy | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="seanjyjy | Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+
 <!-- [<img align="left" alt="seanjyjy | Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium] -->
 
 <br />
@@ -17,6 +20,8 @@
 
 <div>
   <a href="https://reactjs.org/" title="React"><img src="images/react.svg" height="35" width="auto" /></a>
+  &nbsp;
+    <a href="https://www.typescriptlang.org/" title="Typescript"><img src="images/typesciprt.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://www.javascript.com/" title="JavaScript"><img src="images/javascript.svg" height="35" width="auto" /></a>
   &nbsp;
@@ -36,7 +41,7 @@
         &nbsp;
     <a href="https://firebase.google.com/" title="Firebase"><img src="images/firebase.svg" height="35" width="auto" /></a>
     &nbsp;
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" title="c"><img src="images/c.svg" height="35" width="auto" /></a>
+  <a href="https://react-query.tanstack.com/" title="reactquery"><img src="images/reactquery.svg" height="35" width="auto" /></a>
   &nbsp;   
   <a href="https://www.adobe.com/sea/products/xd.html" title="Adobe XD"><img src="images/adobexd.svg" height="35" width="auto" /></a>
 </div>
@@ -61,5 +66,6 @@
 </details>
 
 <!-- [website]: <my website> -->
+
 [instagram]: https://www.instagram.com/seanthemeh/
 [linkedin]: https://www.linkedin.com/in/jyjy98/
