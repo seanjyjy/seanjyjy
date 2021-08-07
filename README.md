@@ -28,6 +28,8 @@
 <img align="left" alt="graphql" src="https://img.shields.io/badge/-GraphQL-white?&style=for-the-badge&logo=GraphQL&logoColor=%23ffffff&color=E434AA" />
 <img align="left" alt="sass" src="https://img.shields.io/badge/-Sass-white?&style=for-the-badge&logo=Sass&logoColor=%23ffffff&color=CC6699" />
 
+<br/>
+<br/>
 
 <img align="left" alt="css" src="https://img.shields.io/badge/-CSS-white?&style=for-the-badge&logo=CSS3&logoColor=%23ffffff&color=1572B6" />
 
