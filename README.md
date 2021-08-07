@@ -19,7 +19,7 @@
 ## Languages & Technologies
 
 ## Frontend stack
-<img align="left" alt="react" src="https://img.shields.io/badge/-React-white?&style=for-the-badge&logo=React&logoColor=%23ffffff&color=blue" />
+<img align="left" alt="react" src="https://img.shields.io/badge/-React-white?&style=for-the-badge&logo=React&logoColor=%23ffffff&color=blue" margin="10px 0"/>
 <img align="left" alt="redux" src="https://img.shields.io/badge/-Redux-white?&style=for-the-badge&logo=Redux&logoColor=%23ffffff&color=8964C5" />
 <!-- https://github.com/simple-icons/simple-icons/pull/6194 -->
 <img align="left" alt="vue" src="https://img.shields.io/badge/-Vue-white?&style=for-the-badge&logo=Vue.js&logoColor=%23ffffff&color=4FC08D" />
