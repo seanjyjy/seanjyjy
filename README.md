@@ -18,46 +18,32 @@
 
 ## Languages & Technologies
 
-<div>
-  <a href="https://reactjs.org/" title="React"><img src="images/react.svg" height="35" width="auto" /></a>
-  &nbsp;
-    <a href="https://redux.js.org" title="Redux"><img src="images/redux.svg" height="35" width="auto" /></a>
-  &nbsp;
-  <a href="https://react-query.tanstack.com/" title="reactquery"><img src="images/reactquery.svg" height="35" width="auto" /></a>
-&nbsp;  
-  <a href="https://vuejs.org/" title="Vue"><img src="images/vue.svg" height="35" width="auto" /></a>
-&nbsp;
-    <a href="https://www.typescriptlang.org/" title="Typescript"><img src="images/typescript.svg" height="35" width="auto" /></a>
-  &nbsp;
-  <a href="https://www.javascript.com/" title="JavaScript"><img src="images/javascript.svg" height="35" width="auto" /></a>
-  &nbsp;
-<a href="https://sass-lang.com/" title="Sass"><img src="images/sass.svg" height="35" width="auto" /></a>
-&nbsp;
-<a href="https://github.com/topics/css" title="CSS"><img src="images/css.svg" height="35" width="auto" /></a>
-&nbsp;
-<a href="https://www.java.com/en/" title="Java"><img src="images/java.svg" height="35" width="auto"/></a>
-&nbsp;
-<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="images/psql.svg" height="35" width="auto" /></a>
-&nbsp;
-<a href="https://nodejs.org/en/" title="NodeJs"><img src="images/nodejs.svg" height="35" width="auto" /></a>
-&nbsp;
-<a href="https://firebase.google.com/" title="Firebase"><img src="images/firebase.svg" height="35" width="auto" /></a>
-&nbsp;
-<a href="https://www.adobe.com/sea/products/xd.html" title="Adobe XD"><img src="images/adobexd.svg" height="35" width="auto" /></a>
+## Frontend stack
+<img align="left" alt="react" src="https://img.shields.io/badge/-React-white?&style=for-the-badge&logo=React&logoColor=%23ffffff&color=blue" />
+<img align="left" alt="redux" src="https://img.shields.io/badge/-Redux-white?&style=for-the-badge&logo=Redux&logoColor=%23ffffff&color=8964C5" />
+<!-- https://github.com/simple-icons/simple-icons/pull/6194 -->
+<img align="left" alt="vue" src="https://img.shields.io/badge/-Vue-white?&style=for-the-badge&logo=Vue.js&logoColor=%23ffffff&color=4FC08D" />
+<img align="left" alt="javascript" src="https://img.shields.io/badge/-JavaScript-white?&style=for-the-badge&logo=JavaScript&logoColor=%23ffffff&color=deb41f" />
+<img align="left" alt="typescript" src="https://img.shields.io/badge/-TypeScript-blue?&style=for-the-badge&logo=TypeScript&logoColor=%23ffffff" />
+<img align="left" alt="graphql" src="https://img.shields.io/badge/-GraphQL-white?&style=for-the-badge&logo=GraphQL&logoColor=%23ffffff&color=E434AA" />
+<img align="left" alt="sass" src="https://img.shields.io/badge/-Sass-white?&style=for-the-badge&logo=Sass&logoColor=%23ffffff&color=CC6699" />
+<img align="left" alt="css" src="https://img.shields.io/badge/-CSS-white?&style=for-the-badge&logo=CSS3&logoColor=%23ffffff&color=1572B6" />
 
-</div>
+<br/>
 
-<br />
-<br />
+## Backend stack
 
----
+<img align="left" alt="java" src="https://img.shields.io/badge/-Java-white?&style=for-the-badge&logo=Java&logoColor=%23ffffff&color=E06C00" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="firebase" src="https://img.shields.io/badge/-Firebase-white?&style=for-the-badge&logo=Firebase&logoColor=%23ffffff&color=dbab00" />
+
+<br/>
 
 ## Learn more about me at
 
 - [Personal Website](https://www.seanlumjy.com/)
 - [LinkedIn](https://www.linkedin.com/in/jyjy98/)
-
----
 
 <details>
   
