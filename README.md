@@ -54,5 +54,5 @@
 
 <!-- [website]: <my website> -->
 
-[instagram]: https://www.instagram.com/seanthemeh/
+[instagram]: https://www.instagram.com/sean_cooperfield/
 [linkedin]: https://www.linkedin.com/in/jyjy98/
