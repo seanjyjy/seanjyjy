@@ -21,6 +21,7 @@
 
 - [Personal Website](https://www.seanlumjy.com/)
 - [LinkedIn](https://www.linkedin.com/in/jyjy98/)
+- [Medium](https://medium.com/@seanlumjy)
 
 <details>
   
