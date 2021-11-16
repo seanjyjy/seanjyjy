@@ -2,8 +2,9 @@
 
 ## I'm a 3rd year Computer Science student in NUS!
 
-- 🌱 I’m currently studying SWE, Databases and Artificial Intelligence
+- 🌱 I’m currently learning about web frontend development and wish to learn more about web backend development
 - 🔭 I’m looking to collaborate with other developers
+- 🥅 Contribute more to Open Source projects
 
 ### Connect with me:
 
