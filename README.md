@@ -2,9 +2,9 @@
 
 ## I'm a penultimate Computer Science student in NUS!
 
-- 🌱  I’m currently learning about both web frontend and web backend development
-- 🔭  I’m looking to collaborate with other developers
-- 🥅  Contribute more to Open Source projects
+- 🌱 &nbsp;&nbsp;I’m currently learning about both web frontend and web backend development
+- 🔭 &nbsp;&nbsp;I’m looking to collaborate with other developers
+- 🥅 &nbsp;&nbsp;Contribute more to Open Source projects
 
 ### Connect with me:
 
