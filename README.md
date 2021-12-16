@@ -1,8 +1,8 @@
 ### Hi there, I'm Sean 👋
 
-## I'm a 3rd year Computer Science student in NUS!
+## I'm a penultimate Computer Science student in NUS!
 
-- 🌱  I’m currently learning about web frontend development and wish to learn more about web backend development
+- 🌱  I’m currently learning about both web frontend and web backend development
 - 🔭  I’m looking to collaborate with other developers
 - 🥅  Contribute more to Open Source projects
 
