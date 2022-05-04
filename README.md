@@ -19,16 +19,14 @@
 
 ## Learn more about me at
 
-- [Personal Website](https://www.seanlumjy.com/)
-- [LinkedIn](https://www.linkedin.com/in/jyjy98/)
-- [Medium](https://medium.com/@seanlumjy)
+- [seanlumjy.com](https://www.seanlumjy.com/) - personal portfolio website
+- [Medium](https://medium.com/@seanlumjy) - noting down my learning
+- [LinkedIn](https://www.linkedin.com/in/jyjy98/) - connect with me!
 
-<details>
-  
-  <summary>:zap: GitHub stats</summary>
-  <img alt="Sean's Github stats" src="https://github-readme-stats.vercel.app/api?username=seanjyjy&show_icons=true&theme=material-palenight&count_private=true" />
+
+:zap: GitHub stats <br/> <br/>
+  <img alt="Sean's Github stats" src="https://github-readme-stats.vercel.app/api?username=seanjyjy&show_icons=true&theme=material-palenight&count_private=true" /> <br/>
   <div><img alt="Sean's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanjyjy&langs_count=6&exclude_repo=MemorizeTutorial,Snake-Game" /></div>
-</details>
 
 <!-- [website]: <my website> -->
 
