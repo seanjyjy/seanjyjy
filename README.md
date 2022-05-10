@@ -9,7 +9,7 @@
 ## Learn more about me at
 
 - [seanlumjy.com](https://www.seanlumjy.com/) - personal portfolio website
-- [Blog](https://blog.seanlumjy.com/) - personal blog
+- [blog.seanlumjy.com](https://blog.seanlumjy.com/) - personal blog
 - [LinkedIn](https://www.linkedin.com/in/jyjy98/) - connect with me!
 - [Medium](https://medium.com/@seanlumjy) - noting down my learning
 
