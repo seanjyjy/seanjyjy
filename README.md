@@ -1,11 +1,5 @@
 ### Hi there, I'm Sean 👋
 
-## I'm a penultimate Computer Science student in NUS!
-
-- 🌱 &nbsp;&nbsp;I’m currently learning about both web frontend and web backend development
-- 🔭 &nbsp;&nbsp;I’m looking to collaborate with other developers
-- 🥅 &nbsp;&nbsp;Contribute more to Open Source projects
-
 ## Learn more about me at
 
 - [seanlumjy.com](https://www.seanlumjy.com/) - personal portfolio website
