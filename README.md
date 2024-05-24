@@ -2,8 +2,8 @@
 
 ## Learn more about me at
 
-- [seanlumjy.com](https://www.seanlumjy.com/) - personal portfolio website
-- [blog.seanlumjy.com](https://blog.seanlumjy.com/) - personal blog
+- [portfolio](https://www.seanjyjy.netlify.app/) - personal portfolio website
+- [blog](https://blog-hazel-beta.vercel.app/) - personal blog
 - [LinkedIn](https://www.linkedin.com/in/jyjy98/) - connect with me!
 
 
