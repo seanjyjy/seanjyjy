@@ -2,7 +2,7 @@
 
 ## Learn more about me at
 
-- [portfolio](https://www.seanjyjy.netlify.app/) - personal portfolio website
+- [portfolio](https://seanjyjy.netlify.app/) - personal portfolio website
 - [blog](https://blog-hazel-beta.vercel.app/) - personal blog
 - [LinkedIn](https://www.linkedin.com/in/jyjy98/) - connect with me!
 
